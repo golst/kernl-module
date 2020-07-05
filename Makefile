@@ -1,4 +1,4 @@
-obj-m := hello_world.o
+obj-m := work_queue.o
 
 KERNELDIR ?= /lib/modules/$(shell uname -r)/build
 
